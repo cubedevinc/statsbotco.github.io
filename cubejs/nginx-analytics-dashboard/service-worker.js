@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/cubejs/nginx-analytics-dashboard/precache-manifest.5b30d169fefbb6b5babf99cd643be842.js"
+  "/cubejs/nginx-analytics-dashboard/precache-manifest.e2b39b334bfa7dd87975dc0b6722de80.js"
 );
 
 workbox.clientsClaim();
