@@ -4,23 +4,23 @@ self.__precacheManifest = [
     "url": "/cubejs/nginx-analytics-dashboard/static/js/runtime~main.fbc69acc.js"
   },
   {
-    "revision": "9e48f3c5ee662a70f24e",
-    "url": "/cubejs/nginx-analytics-dashboard/static/js/main.22ed8b11.chunk.js"
+    "revision": "cc7d56f9cd1450dd5fa1",
+    "url": "/cubejs/nginx-analytics-dashboard/static/js/main.a558fd6b.chunk.js"
   },
   {
-    "revision": "874074c653fc1fb47781",
-    "url": "/cubejs/nginx-analytics-dashboard/static/js/2.cb7d887a.chunk.js"
+    "revision": "7ecbb6508610fc22eb68",
+    "url": "/cubejs/nginx-analytics-dashboard/static/js/2.d7ce2031.chunk.js"
   },
   {
-    "revision": "9e48f3c5ee662a70f24e",
+    "revision": "cc7d56f9cd1450dd5fa1",
     "url": "/cubejs/nginx-analytics-dashboard/static/css/main.bbc8dbdd.chunk.css"
   },
   {
-    "revision": "874074c653fc1fb47781",
+    "revision": "7ecbb6508610fc22eb68",
     "url": "/cubejs/nginx-analytics-dashboard/static/css/2.a47ebc4d.chunk.css"
   },
   {
-    "revision": "62eb9457aaec96c05470714949764d30",
+    "revision": "84c2db412c3df7d8ba7782ce6c3a8afe",
     "url": "/cubejs/nginx-analytics-dashboard/index.html"
   }
 ];
